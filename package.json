@@ -1,0 +1,16 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "tonoy",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^23.0.1"
+  }
+}
